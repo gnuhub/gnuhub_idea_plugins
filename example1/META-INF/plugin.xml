@@ -38,6 +38,10 @@
 
   <actions>
     <!-- Add your actions here -->
+      <group id="Com.Gnuhub.Idea.Example" text="_Gnuhub Menu" description="Gnuhub Sample menu">
+          <add-to-group group-id="MainMenu" anchor="last"  />
+          <action id="Gnuhub.Example" class="com.gnuhub.idea.TextBoxes" text="Text _Boxes" description="A test menu item" />
+      </group>
   </actions>
 
 </idea-plugin>
