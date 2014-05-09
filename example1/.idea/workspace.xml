@@ -36,9 +36,11 @@
       <file leaf-file-name="TextBoxes.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gnuhub/idea/TextBoxes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21784233" vertical-offset="0" max-vertical-offset="482">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding />
+            <state vertical-scroll-proportion="0.25586355" vertical-offset="0" max-vertical-offset="469">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -395,12 +397,12 @@
       <changelist id="f35fe9de-3aa6-4dfb-bca1-3a7e4133df6a" name="Default" comment="" />
       <created>1399603585164</created>
       <updated>1399603585164</updated>
-      <workItem from="1399603586848" duration="234000" />
+      <workItem from="1399603586848" duration="342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234000" />
+    <option name="totallyTimeSpent" value="342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1397" height="878" extended-state="6" />
@@ -471,9 +473,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gnuhub/idea/TextBoxes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21784233" vertical-offset="0" max-vertical-offset="482">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
+        <state vertical-scroll-proportion="0.25586355" vertical-offset="0" max-vertical-offset="469">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
